@@ -1,2 +1,2 @@
 # myproject
-hostle mess management
+hostel mess management
